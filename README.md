@@ -51,7 +51,7 @@
 
 ---
 
-## Technical Skills
+## Always learning and growing
 
 <div align="center">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
