@@ -33,7 +33,7 @@
 
 ## Sobre mim
 
-<img align="right" width="180" src="https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif">
+<img align="right" width="150" src="https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif">
 
   Sou estudante da área de tecnologia e estou construindo minha trajetória no desenvolvimento de software.
 
