@@ -32,8 +32,13 @@
 ---
 
 ## Sobre mim
+<div align="center">
+  
+<img width="180" src="https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif">
 
-<img align="right" width="150" src="https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif">
+</div>
+
+<div style="text-align: justify;">
 
   Sou estudante da área de tecnologia e estou construindo minha trajetória no desenvolvimento de software.
 
@@ -42,7 +47,7 @@ Ao longo da minha formação, também venho explorando **banco de dados, engenha
   
   Gosto de projetos que me permitem transformar uma ideia em algo concreto, passando pela concepção, organização, desenvolvimento e melhoria da solução. Atualmente, meu foco é fortalecer minha base técnica, colocar conhecimento em prática através de projetos e continuar descobrindo novas possibilidades dentro da tecnologia.
 
-<br clear="right"/>
+</div>
 
 ---
 
