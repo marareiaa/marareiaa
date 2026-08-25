@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maria Clara
+# Maria Clara Lima da Silva
 
 ### `Systems Development Student` · `Front-End` · `Technology`
 
